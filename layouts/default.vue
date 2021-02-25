@@ -110,6 +110,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: '달력',
           to: '/calendar'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: '달력2',
+          to: '/calendar2'
         }
       ],
       miniVariant: false,
