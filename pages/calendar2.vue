@@ -81,7 +81,7 @@
       value: '',
       events: [],
       colors: ['blue', 'indigo', 'deep-purple', 'cyan', 'green', 'orange', 'grey darken-1'],
-      names: ['여행', '쉬는날', 'Spring', 'Vue', 'VVV', 'Hunting', 'Conference', 'Party'],
+      names: ['여행', '쉬는날', 'Spring', 'Vue', 'VVV', '헌팅', '규혁데이', '파티'],
     }),
     methods: {
       getEvents ({ start, end }) {
